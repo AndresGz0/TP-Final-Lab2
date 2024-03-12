@@ -8,6 +8,7 @@
 #include "EC.h"
 #include "listas.h"
 #include "arboles.h"
+
 // Finished ////////////////////////////////////
 /// Crear coleccion
 /// Agregar a la coleccion
@@ -20,12 +21,7 @@
 /// Operaciones con listas dobles
 /// Mostrar carta
 /// Guardar y cargar coleccion
-// //////////////////////////////////////////////////
-// Andres
-/// Intercambiar cartas
-/// Operaciones con estructuras compuestas
-
-/// Ivan
+// Operaciones con estructuras compuestas
 // Operaciones con pilas
 // Operaciones con arboles
 // Filtrar cartas por tipo
@@ -33,6 +29,7 @@
 // Mostrar cartas de mayor valor
 // Mostrar cartas por expansion
 // Generar mazo aleatorio
+// //////////////////////////////////////////////////
 
 int main()
 {
