@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1698867063 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\listas.c
+	"listas.h"
+
+1698867063 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\listas.h
+
+1700669778 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\arboles.c
+	"arboles.h"
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1700666699 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\arboles.h
+	"carta.h"
+
+1700671413 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"windows.h"
+	"carta.h"
+	"TDA.h"
+	"Pilas.h"
+	"EC.h"
+	"listas.h"
+	"arboles.h"
+
+1700670513 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\carta.h
+
+1698867576 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"carta.h"
+	"listas.h"
+	"arboles.h"
+
+1700671327 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\carta.c
+	"carta.h"
+	<stdio.h>
+
+1700541681 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\tda.c
+	"TDA.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1700433997 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\tda.h
+	"carta.h"
+
+1700666115 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\funcionesaux.c
+	"FuncionesAux.h"
+	<stdio.h>
+
+1700666115 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\funcionesaux.h
+	"carta.h"
+
+1700184191 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\ec.c
+	"EC.h"
+	<stdio.h>
+
+1700183815 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\ec.h
+	"carta.h"
+
+1700671123 c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\pilas.h
+	"TDA.h"
+	"carta.h"
+
+1700671144 source:c:\users\fkspe\onedrive\escritorio\mystuff\facuuu\programacion\prog y lab 2 (2023)\tpfinal\tpfinal\pilas.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Pilas.h"
+	"carta.h"
+	"TDA.h"
+
